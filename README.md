@@ -2,7 +2,7 @@ Hey 👋🏼, my name is Christopher Martinez.
 
 I'm a Solidity Smart Contract Developer. 
 
-All the projects you see here were either for myself, or for other people. If you need me to develop something for you, feel free to reach out.
+All the projects you see here were either for myself or for other people. Feel free to reach out if you need me to develop something for you.
 
 Fun Facts:
 
